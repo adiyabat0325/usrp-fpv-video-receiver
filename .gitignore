@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.iq
+*.cf32
+*.f32
+*.dat
+*.grc.bak
+*~
